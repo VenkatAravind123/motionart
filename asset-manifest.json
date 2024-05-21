@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motionapp/static/css/main.973c6909.css",
+    "main.js": "/motionapp/static/js/main.79c374f1.js",
+    "static/js/453.cf2e899e.chunk.js": "/motionapp/static/js/453.cf2e899e.chunk.js",
+    "index.html": "/motionapp/index.html",
+    "main.973c6909.css.map": "/motionapp/static/css/main.973c6909.css.map",
+    "main.79c374f1.js.map": "/motionapp/static/js/main.79c374f1.js.map",
+    "453.cf2e899e.chunk.js.map": "/motionapp/static/js/453.cf2e899e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973c6909.css",
+    "static/js/main.79c374f1.js"
+  ]
+}
