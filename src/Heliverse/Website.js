@@ -49,7 +49,7 @@ export default function Website()
     <div class="showcase-content">
       <h1 class="l-heading" >Attract Your Visitors Attention With Colorful <span className='motionart'>Motion Art Effect</span></h1>
       <p class="lead">Unleash the power of creativity with Motion Art for Elementor - your ultimate solution for seamlessly integrating captivating animations into your website. </p>
-    </div>``
+    </div>
     
   </header>
   
