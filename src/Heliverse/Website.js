@@ -40,7 +40,7 @@ export default function Website()
   <header id="showcase">
     <div className='imageheading'>
         <img src={motion} alt='image00' className='motion' width="230" height="60" ></img>
-        <button className='purchase'>Purchase Now</button>
+        <button className='purchase' onClick={purchaseclick}>Purchase Now</button>
     </div>
     <div className='bheading'>
         <span className='head1'>Transform <br/> Your Website</span>
